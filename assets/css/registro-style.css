@@ -1,5 +1,5 @@
 body{
-	background: linear-gradient(45deg,#22242C,grey,#22242C);
+	background: linear-gradient(45deg,#b7d6c7,#ffe2d1);
 	background-size: 400% 400%;
 	animation: cambiar 8s ease-in-out infinite;
 }
@@ -48,14 +48,16 @@ nav{
 
 .ingreso{
 	cursor: pointer;
-	color: #878FA6;
+	color: #22242C;
+	font-weight: 600;
 	text-decoration: none;
 	margin-right: 20px;
+
 }
 
 .boton-login{
 	font-size: 0.875rem;
-	font-weight: 500;
+	font-weight: 600;
 	padding-top: 0.5rem;
     padding-right: 1.5rem;
     padding-bottom: 0.5rem;
@@ -106,7 +108,7 @@ p{
 	
 	font-size: 0.875rem;
     margin: 0px 0px 20px 0px;
-    color: #878FA6;
+    color: #22242C;
     text-align: left;
 }
 
@@ -167,6 +169,26 @@ form{
     box-shadow: rgb(240 241 247 / 5%) 0px 0px 0px 1px;
     align-self: start;
     
+}
+
+.correo{
+	text-decoration: none;
+	align-content: center;
+	text-align: left;
+	outline: 0;
+	width: 110%;
+	border: 0;
+	background: #16181D;
+	color: #878FA6;
+	font-family: Poppins, system-ui, sans-serif;
+	margin-bottom: 32px;
+    font-size: 0.875rem;
+    padding-top: 0.875rem;
+    padding-left: 15px;
+    padding-bottom: 0.875rem;
+    border-radius: 9px;
+    box-shadow: rgb(240 241 247 / 5%) 0px 0px 0px 1px;
+    align-self: start;
 }
 
 

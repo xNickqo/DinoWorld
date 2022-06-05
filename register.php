@@ -151,7 +151,7 @@ if(isset($_POST['submit']))
 						<input class="input-int-right" type="text" name="apellido" placeholder="Apellido">
 					</div>
 					<div class="column">
-						<input class="input-int" type="text" name="email" placeholder="ejemplo@dominio.com">
+						<input class="correo" type="text" name="email" placeholder="ejemplo@dominio.com">
 					</div>
 					<div class="column">
 						<input class="input-int" type="password" name="password" placeholder="Clave de seguridad">
