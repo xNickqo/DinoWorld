@@ -1,5 +1,3 @@
-# MiniWorld
-Web con minijuegos
 
 Esta es la URL a la website
 
