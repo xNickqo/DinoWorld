@@ -74,7 +74,7 @@ if(isset($_POST['submit']))
 
 				<img class="avatar" src="assets/img/logo-dark.svg" alt="">
 
-				<h5>Únete a nosotros y diviertete jugando a nuestros minijuegos</h5>
+				<h5>Únete a nosotros y diviertete jugando a nuestro minijuego</h5>
 
 				<?php
    					if (isset($errors) && count($errors) > 0) {

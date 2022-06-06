@@ -63,7 +63,7 @@ body{
 .hero__container{
 	display: flex;
 	padding-left: 100px;
-	height: calc(100vh - 500px);
+	height: calc(100vh - 200px);
 	align-items: center;
 	color: white;
 }
@@ -111,7 +111,7 @@ main{
 	display: block;
 	width: 90%;
 	padding: 0;
-	margin: -200px auto 40px auto;
+	margin: -100px auto 40px auto;
 	
 }
 

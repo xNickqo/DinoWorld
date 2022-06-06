@@ -26,14 +26,14 @@
         <div class="container">
             <nav class="nav">
                 <a class="nav__items nav__items--cta" id="btn-opinions" href="#">Opiniones</a>
-                <a class="nav__items" href="#footer">Contactame hora</a>
-                <a class="nav__items" href="logout.php?logout=true">Logout</a>
+                <a class="nav__items" href="#footer">Contacto</a>
+                <a class="nav__items" href="logout.php?logout=true">Cerrar sesión</a>
             </nav>
 
             <section class="hero__container">
                 <div class="hero__texts">
                     <h1 class="hero__title">Bienvenido a DinoWorld</h1>
-                    <h2 class="hero__subtitle">Nuestra pagina web en la que podras pasartelo genial con Dino, <br>¿conseguiras que Dino no muera?</h2>
+                    <h2 class="hero__subtitle">Nuestra página web en la que podras pasartelo genial con Dino, <br>¿conseguiras que Dino no muera?</h2>
 
                     <a href="game.php" class="hero__cta" id="botonjugar">Juega ya</a>
                 </div>
@@ -64,7 +64,7 @@
                         <img src="assets/img/dinojump.png">
                     </div>
                     <h1>DinoJumo</h1>
-                    <p>DinoJump es un nuestro minijuego basado en Chrome dino solo que cambiando algunas cosas, como las texturas, ya no son en blanco y negro, el cielo cambia de color segun va pasando el tiempo y hemos añadido un par de obstaculos para agregarle mas variedad. Por lo demas el juego es exactamente igual que el minijuego de Chrome. </p>
+                    <p>DinoJump es un nuestro minijuego basado en Chrome dino solo que cambiando algunas cosas, como las texturas, ya no son en blanco y negro, el cielo cambia de color según va pasando el tiempo y hemos añadido un par de obstaculos para agregarle más variedad. Por lo demás el juego es exactamente igual que el minijuego de Chrome. </p>
                     <h5>¿Y en que consiste DinoJump?</h5>
                     <p>Consiste simplemente en un dinosaurio que va corriendo por un mapa infinito intentando no chocarse con los obstaculos que se lo van imponiendo a lo largo de su largo trayecto por el desierto </p>
                 </div>

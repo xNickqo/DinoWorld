@@ -129,7 +129,7 @@ if(isset($_POST['submit']))
 		<main>
 			<div class="register-cont">
 
-				<h5>Únete a nosotros y diviertete jugando a nuestros minijuegos</h5>
+				<h5>Únete a nosotros y diviertete jugando a nuestro minijuego</h5>
 
 				<p>Rellena los campos solicitados para crear tu cuenta y utiliza nuestra aplicación.</p>
 
